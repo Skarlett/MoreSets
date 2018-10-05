@@ -1,5 +1,7 @@
 # MoreSets
-an extremely small collection of extra set classes. methods replicate native [sets](https://docs.python.org/2/library/sets.html)
+an extremely small collection of extra set classes. methods replicate native [sets](https://docs.python.org/2/library/sets.html).
+
+
 The documents specify when a set creates a new instance of its self. These methods should not be considered reliable for maintaining order, instead use update methods.
 
 This file provides
