@@ -14,5 +14,5 @@ Usages:
     a = OrderedSet(['c', 'b', 'd'])
     a.add('a')
     a.intersection_update(['a', 'c'])
-    print(a)  # OrderedSet(['a', 'c'])
+    print(a)  # OrderedSet(['c', 'a'])
     
